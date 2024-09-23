@@ -56,6 +56,16 @@ Instalando o pagerView:
 ```bash
 npx expo install react-native-pager-view
 ```
+
+Consumindo a API falsa
+```bash
+npm install json-server
+```
+
+Rode a API falsa
+```bash
+npx json-server db.json
+```
 ## Iniciando
 
 1. instale as dependências
