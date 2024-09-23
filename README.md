@@ -51,6 +51,11 @@ Já que estamos usando typescript, precisamos:
 ```
 Tudo pronto! Agora, para facilitar a vida, baixe a extensão:
 Tailwind CSS IntelliSense
+
+Instalando o pagerView:
+```bash
+npx expo install react-native-pager-view
+```
 ## Iniciando
 
 1. instale as dependências
